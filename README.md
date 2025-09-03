@@ -4,7 +4,6 @@ Hello 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yukta-shree)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yukta233)
 
-This is my portfolio [https://yasingenc.net](https://yasingenc.net). Drop me a line if I can do anything else for you.
 
 ---
 
@@ -39,4 +38,4 @@ Powered by Vercel, Next.js, GSAP, and GitHub.
 
 
 ## License
-Feel free to use this project.
+
